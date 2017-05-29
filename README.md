@@ -1,6 +1,7 @@
 # VR_Infographics
-ABC2017 SpringのVRハンズオン用に作成したものです。
+[UnityによるVRアプリケーション開発](https://www.oreilly.co.jp/books/9784873117577/)のサンプルプロジェクトの応用例として、[ABC2017 Spring](http://abc.android-group.jp/2017s/)のVRハンズオン用に作成したものです。
 このリポジトリにはハンズオンで作成したプロジェクトの完成版を上げました。
+
 
 ハンズオンで使用した[資料はこちら](https://github.com/ktaka/VR_Infographics/wiki/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%E8%B3%87%E6%96%99)です。
 
