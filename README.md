@@ -31,7 +31,7 @@ AndroidおよびiOSで動かすCardboard用にビルドする場合は、SDK等�
 <a name="fig_b_2">図1</a> Virtual Reality Supportedのチェックボックス
 
 ### Unityのエディターでプレビューする方法
-Unityのエディターのプレビュー機能でカメラの方向を動かして確認する場合はGoogle VR SDK for UnityのSDKが必要です。
+Unityのエディターのプレビュー機能でカメラの方向を動かして確認する場合は[Google VR SDK for UnityのSDK](https://github.com/googlevr/gvr-unity-sdk/raw/master/GoogleVRForUnity.unitypackage)が必要です。
 
 1. ウェブブラウザで<https://developers.google.com/vr/unity/download>を開いて、Google VR SDK for Unityをダウンロードします。
 2. Unityのメインメニューの［Assets］から［Import Package］→［Custom Package...］を選択します。
@@ -41,5 +41,5 @@ Unityのエディターのプレビュー機能でカメラの方向を動かし
 6. ［Play］ボタンを押します。
 7. alt キーを押しながらマウスカーソルを動かすと見る方向が変わります。
 
-
+※ Unity 5.6.1f1 と Google VR SDK for Unity 1.50.0 の組合せでの動作を確認しています。
 
