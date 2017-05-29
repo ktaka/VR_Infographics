@@ -1,5 +1,8 @@
 # VR_Infographics
 ABC2017 SpringのVRハンズオン用に作成したものです。
+このリポジトリにはハンズオンで作成したプロジェクトの完成版を上げました。
+
+ハンズオンで使用した[資料はこちら](https://github.com/ktaka/VR_Infographics/wiki/%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%E8%B3%87%E6%96%99)です。
 
 ## 使用方法
 Unity標準アセットやGoogle VR SDK等は含まれていないので、プロジェクトをUnityで開いたら次の手順で必要なものをインポートしてください。
